@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "analytics-mcp-server-4": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/src/index.js"]
+    }
+  }
+}
